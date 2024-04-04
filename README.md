@@ -5,7 +5,7 @@
 CMD - 
 
 
-1. wget https://downloads.apache.org/pig/pig-0.17.0/pig-0.17.0.tar.gz
+1. wget https://downloads.apache.org/pig/pig-0.17.0/pig-0.17.0.tar.gz   
 
 
 2. tar -xvf pig-0.17.0.tar.gz
